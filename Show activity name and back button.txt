@@ -1,0 +1,4 @@
+//It's code show activity name & back button also.
+
+Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setTitle("Member Profile");
